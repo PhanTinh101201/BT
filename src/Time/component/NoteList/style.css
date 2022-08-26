@@ -1,0 +1,11 @@
+.div{
+    margin-left: 300px;
+    height: 300px;
+    width: 400px;
+    border: 1px solid blue;
+}
+.span{
+    border: 1px solid red;
+    margin:10px;
+    width: 200px;
+}
